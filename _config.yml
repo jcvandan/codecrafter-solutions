@@ -1,12 +1,16 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: "Codecrafter Solutions"
+email: "contact@codecraftersolutions.co.uk"
+description: > 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin efficitur neque id urna condimentum, in maximus urna tempus.
+  Vivamus in imperdiet lacus, sed porta mi. Morbi varius leo justo. Integer sodales, felis et venenatis tincidunt, mi mi tristique ex,
+  at luctus sapien eros ut purus. Donec commodo bibendum nunc, ut dapibus arcu. Aliquam tempor augue lorem, non mattis enim vulputate
+  sed. Mauris libero sapien, efficitur ut lobortis vel, placerat a turpis.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "http://codecraftersolutions.co.uk" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:
+github_username: jcvandan
 
 # Build settings
 markdown: kramdown
